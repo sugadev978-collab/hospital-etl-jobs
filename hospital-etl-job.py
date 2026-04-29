@@ -190,3 +190,4 @@ rejected_basic_df.select(
 print("===== HOSPITAL ETL JOB COMPLETED =====")
 
 job.commit()
+#Second draft
